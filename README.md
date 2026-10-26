@@ -10,7 +10,7 @@ Olá Me chamo Pedro Melo Rissacaça tenho 23 anos e sou de São Paulo, Amo tecno
  
 #
 
-<img align="right" alt="Edgerunners GIF" height="190px" src="https://raw.githubusercontent.com/KilluaZodrick/KilluaZodrick/main/src/edgerunners.gif">
+![Edgerunners GIF](https://raw.githubusercontent.com/KilluaZodrick/KilluaZodrick/main/src/edgerunners.gif)>
 
 <h3 align="left">Connect with me!</h3>
 
